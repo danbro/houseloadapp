@@ -1,4 +1,4 @@
-# houseloadapp (preliminary version)
+# House Load
 ## A MATLAB application
 
 Generate and analyze synthetic house electricity load profiles down to minute resolution
